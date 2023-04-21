@@ -12,7 +12,7 @@ int main()
     {
         cout << "Eligible";
     }
-    else if(age < 180)
+    else
     {
         cout << "Not Eligible";
     }
