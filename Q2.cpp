@@ -23,5 +23,5 @@ int main()
         max = c;
     }
     
-    cout << max;
+    cout <<"The maximum number is " << max;
 }
